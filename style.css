@@ -10,6 +10,12 @@ body {
   margin: 20px;
 }
 
+.demo-card-wide>.mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background: purple;
+}
+
 .demo-card-wide>.mdl-card__title__unity {
   color: #fff;
   height: 176px;

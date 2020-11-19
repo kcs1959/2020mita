@@ -16,13 +16,13 @@ body {
   background: purple;
 }
 
-.demo-card-wide>.mdl-card__title__unity {
+.demo-card-wide>.mdl-card__title__web {
   color: #fff;
   height: 176px;
   background: green;
 }
 
-.demo-card-wide>.mdl-card__title__unity {
+.demo-card-wide>.mdl-card__title__music {
   color: #fff;
   height: 176px;
   background: blue;

@@ -16,7 +16,7 @@ body {
   background: purple;
 }
 
-.demo-card-wide>.mdl-card__title__unity {
+/* .demo-card-wide>.mdl-card__title__unity {
   color: #fff;
   height: 176px;
   background: purple;
@@ -32,7 +32,7 @@ body {
   color: #fff;
   height: 176px;
   background: rgb(0, 0, 206);
-}
+} */
 
 .demo-card-wide>.mdl-card__menu {
   color: #fff;

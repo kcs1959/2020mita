@@ -25,7 +25,7 @@ body {
 .demo-card-wide>.mdl-card__title__music {
   color: #fff;
   height: 176px;
-  background: blue;
+  background: rgb(0, 0, 206);
 }
 
 .demo-card-wide>.mdl-card__menu {

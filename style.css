@@ -10,10 +10,22 @@ body {
   margin: 20px;
 }
 
-.demo-card-wide>.mdl-card__title {
+.demo-card-wide>.mdl-card__title__unity {
+  color: #fff;
+  height: 176px;
+  background: purple;
+}
+
+.demo-card-wide>.mdl-card__title__unity {
   color: #fff;
   height: 176px;
   background: green;
+}
+
+.demo-card-wide>.mdl-card__title__unity {
+  color: #fff;
+  height: 176px;
+  background: blue;
 }
 
 .demo-card-wide>.mdl-card__menu {

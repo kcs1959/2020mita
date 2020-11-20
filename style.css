@@ -7,8 +7,9 @@ body {
 /* Wide card with share menu button */
 
 .demo-card-wide.mdl-card {
-  width: 480px;
+  width: 512px;
   margin: 20px;
+  text-align: center;
 }
 
 .demo-card-wide>.mdl-card__title {

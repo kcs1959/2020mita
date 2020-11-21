@@ -4,12 +4,13 @@ body {
   margin: 0 auto;
 }
 
-h1, .han {
+h1 {
   padding-left: 40px;
 }
 
 .han {
   padding-top: 20px;
+  padding-left: 40px;
 }
 
 /* Wide card with share menu button */
@@ -25,24 +26,6 @@ h1, .han {
   height: 288px;
   background: green;
 }
-
-/* .demo-card-wide>.mdl-card__title__unity {
-  color: #fff;
-  height: 176px;
-  background: purple;
-}
-
-.demo-card-wide>.mdl-card__title__web {
-  color: #fff;
-  height: 176px;
-  background: green;
-}
-
-.demo-card-wide>.mdl-card__title__music {
-  color: #fff;
-  height: 176px;
-  background: rgb(0, 0, 206);
-} */
 
 .demo-card-wide>.mdl-card__menu {
   color: #fff;

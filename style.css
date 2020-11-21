@@ -1,5 +1,7 @@
 body {
   background:#f4f4f7;
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 h1, .han {
